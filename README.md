@@ -1,7 +1,7 @@
 ### Hi there 👋
+
 const Wedhax = {
     pronouns: "He" | "Him",
-    
     code: ["Python", "JavaScript", "Lua", "Java", "HTML", "CSS (Bootstrap)"],
     askMeAbout: ["back-end", "front-end", "script dev", "bot dev", "discord"],
     technologies: {

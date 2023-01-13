@@ -16,4 +16,4 @@
             databases: ["MySql", "Sqlite3", "MongoDB"],
         },
         currentFocus: "Next.js"
-        };
+    };

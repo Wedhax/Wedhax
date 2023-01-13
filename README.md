@@ -2,18 +2,15 @@
 
     const Wedhax{
         pronouns: "He" | "Him",
-        code: ["Python", "JavaScript", "Lua", "Java", "HTML", "CSS (Bootstrap)"],
-        askMeAbout: ["back-end", "front-end", "script dev", "bot dev", "discord"],
+        code: ["Python", "HTML", "CSS (Bootstrap)"],
         technologies: {
             backEnd: {
                 py: ["Flask"],
-                js: ["JavaScript"]
             },
             botDev: {
-                discord: ["Python", "JavaScript"],
+                discord: ["Python"],
                 messageApps: ["Python"]
             },
-            databases: ["MySql", "Sqlite3", "MongoDB"],
+            databases: ["Sqlite3", "MongoDB"],
         },
-        currentFocus: "Next.js"
     };

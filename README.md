@@ -2,7 +2,7 @@
 
     const Wedhax{
         pronouns: "He" | "Him",
-        code: ["Python", "HTML", "CSS (Bootstrap)"],
+        code: ["Python", "HTML", "CSS (Bootstrap)", "C#"],
         technologies: {
             backEnd: {
                 py: ["Flask"],
